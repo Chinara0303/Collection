@@ -1,0 +1,15 @@
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\bin\Debug\net6.0\List_OperatorOverLoading.exe
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\bin\Debug\net6.0\List_OperatorOverLoading.deps.json
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\bin\Debug\net6.0\List_OperatorOverLoading.runtimeconfig.json
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\bin\Debug\net6.0\List_OperatorOverLoading.dll
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\bin\Debug\net6.0\List_OperatorOverLoading.pdb
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\obj\Debug\net6.0\List_OperatorOverLoading.csproj.AssemblyReference.cache
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\obj\Debug\net6.0\List_OperatorOverLoading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\obj\Debug\net6.0\List_OperatorOverLoading.AssemblyInfoInputs.cache
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\obj\Debug\net6.0\List_OperatorOverLoading.AssemblyInfo.cs
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\obj\Debug\net6.0\List_OperatorOverLoading.csproj.CoreCompileInputs.cache
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\obj\Debug\net6.0\List_OperatorOverLoading.dll
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\obj\Debug\net6.0\refint\List_OperatorOverLoading.dll
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\obj\Debug\net6.0\List_OperatorOverLoading.pdb
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\obj\Debug\net6.0\List_OperatorOverLoading.genruntimeconfig.cache
+D:\C#\List,OperatorOverloading\List_OperatorOverLoading\List_OperatorOverLoading\obj\Debug\net6.0\ref\List_OperatorOverLoading.dll
